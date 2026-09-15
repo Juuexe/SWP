@@ -1,0 +1,1 @@
+This project uses historical Rainbow Six Siege round data to train a machine-learning model that estimates the probability of an attacking team winning based on team composition, map, and objective location
