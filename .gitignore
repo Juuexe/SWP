@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets
+data/*.zip
+data/*.csv
+
+# Trained models
+models/*.pkl
+models/*.joblib
